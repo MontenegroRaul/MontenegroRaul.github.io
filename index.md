@@ -14,8 +14,7 @@ My Github page is https://github.com/MontenegroRaul
 
     This lab was really interesting to me as it was really the first lab I encountered quite a bit of bugs on. 
     To get the calculator to work because we kept messing up the syntax for the math formula. Figuring out the 
-    proper syntax and even the proper print out message was nice, and helped me understand the importance of 
-    syntax so much more.
+    proper syntax helped me understand the importance of syntax so much more.
 
 * Lab 5
 
